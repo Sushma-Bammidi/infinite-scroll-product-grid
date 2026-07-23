@@ -222,10 +222,8 @@ npm run preview
 
 ## Infinite Scroll Loading
 
-<img width="1825" height="1020" alt="image" src="https://github.com/user-attachments/assets/22ce509f-a6a1-4090-9111-57426500efa0" />
+<img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/d8b6ec48-d497-43ee-8391-db88ee7ebbec" />
 
-
----
 
 ## Product Details
 
