@@ -8,7 +8,7 @@ A modern, responsive product grid built with **React + Vite** that implements **
 
 ## 🌐 Live Demo
 
-**Vercel:** https://your-vercel-link.vercel.app
+**Vercel:** https://infinite-scroll-product-grid-amber.vercel.app
 
 ---
 
