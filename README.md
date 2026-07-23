@@ -215,31 +215,36 @@ npm run preview
 
 ## Home Page
 
-![Home](screenshots/home.png)
+![Home]<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/18ad611c-31f6-4589-9f1d-fc4a1d5ba370" />
+
 
 ---
 
 ## Infinite Scroll Loading
 
-![Loading](screenshots/loading.png)
+![Loading](<img width="1825" height="1020" alt="image" src="https://github.com/user-attachments/assets/22ce509f-a6a1-4090-9111-57426500efa0" />
+)
 
 ---
 
 ## Product Details
 
-![Modal](screenshots/modal.png)
+![Modal](<img width="1891" height="1010" alt="image" src="https://github.com/user-attachments/assets/afde130f-60bb-409c-a966-8539c0a9050d" />
+)
 
 ---
 
 ## End of Products
 
-![End](screenshots/end.png)
+![End](<img width="1817" height="958" alt="image" src="https://github.com/user-attachments/assets/050c05bf-f292-4679-a367-3ddcdbe6b746" />
+)
 
 ---
 
 ## Manual Load More Fallback
 
-![Fallback](screenshots/load-more.png)
+![Fallback](<img width="1885" height="990" alt="image" src="https://github.com/user-attachments/assets/3c086f04-7686-4cd3-9846-ec508d356555" />
+)
 
 ---
 
