@@ -154,7 +154,7 @@ Again     "You've Reached the End"
 
 ---
 
-# 📋 Assignment Requirements
+# Assignment Requirements
 
 | Requirement | Status |
 |-------------|--------|
