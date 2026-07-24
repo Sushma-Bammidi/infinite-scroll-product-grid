@@ -239,13 +239,6 @@ npm run preview
 
 ---
 
-## Manual Load More Fallback
-
-<img width="1885" height="990" alt="image" src="https://github.com/user-attachments/assets/3c086f04-7686-4cd3-9846-ec508d356555" />
-
-
----
-
 # Future Improvements
 
 - Product Search
