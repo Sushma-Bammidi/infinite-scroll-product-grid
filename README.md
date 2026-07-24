@@ -1,4 +1,4 @@
-# 🚀 Infinite Scroll Product Grid
+# Infinite Scroll Product Grid
 
 A modern, responsive product grid built with **React + Vite** that implements **infinite scrolling** using the **IntersectionObserver API**. Products are fetched from the DummyJSON API and loaded seamlessly as users scroll.
 
@@ -12,7 +12,7 @@ A modern, responsive product grid built with **React + Vite** that implements **
 
 ---
 
-## 📂 GitHub Repository
+## GitHub Repository
 
 **Repository:** https://github.com/Sushma-Bammidi/infinite-scroll-product-grid
 
@@ -20,17 +20,17 @@ A modern, responsive product grid built with **React + Vite** that implements **
 
 # ✨ Features
 
-- ✅ Infinite scrolling using **IntersectionObserver**
-- ✅ No scroll event listeners
-- ✅ Automatic pagination
-- ✅ Prevents duplicate API requests
-- ✅ Smooth content loading
-- ✅ Responsive product grid
-- ✅ Loading indicator
-- ✅ Error handling
-- ✅ End-of-list indicator
-- ✅ Manual **Load More** fallback when `IntersectionObserver` isn't supported
-- ✅ Product Details Modal
+- Infinite scrolling using **IntersectionObserver**
+- No scroll event listeners
+- Automatic pagination
+- Prevents duplicate API requests
+- Smooth content loading
+- Responsive product grid
+- Loading indicator
+- Error handling
+- End-of-list indicator
+- Manual **Load More** fallback when `IntersectionObserver` isn't supported
+- Product Details Modal
 
 ---
 
@@ -47,7 +47,7 @@ A modern, responsive product grid built with **React + Vite** that implements **
 
 ---
 
-# 📦 API
+# API
 
 Products are fetched from:
 
@@ -80,7 +80,7 @@ skip=40
 
 ---
 
-# 🏗 Project Structure
+# Project Structure
 
 ```
 src
@@ -158,14 +158,14 @@ Again     "You've Reached the End"
 
 | Requirement | Status |
 |-------------|--------|
-| IntersectionObserver | ✅ |
-| No Scroll Event Listeners | ✅ |
-| Correct Pagination | ✅ |
-| Duplicate Fetch Prevention | ✅ |
-| Smooth Scroll Experience | ✅ |
-| End of Products State | ✅ |
-| Manual Load More Fallback | ✅ |
-| No Infinite Scroll Library | ✅ |
+| IntersectionObserver | Done |
+| No Scroll Event Listeners | Done |
+| Correct Pagination | Done |
+| Duplicate Fetch Prevention | Done |
+| Smooth Scroll Experience | Done |
+| End of Products State | Done |
+| Manual Load More Fallback | Done |
+| No Infinite Scroll Library | Done |
 
 ---
 
@@ -246,7 +246,7 @@ npm run preview
 
 ---
 
-# 💡 Future Improvements
+# Future Improvements
 
 - Product Search
 - Category Filters
